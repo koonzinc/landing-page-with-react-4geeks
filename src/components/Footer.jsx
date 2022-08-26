@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='bg-dark text-white py-4'>Engineered by  🚀 &nbsp;William Koonz</div>
+        <div style={{backgroundColor: '#212529', color: 'white', padding: '60px', height: '100%'}} >Engineered by  🚀 &nbsp;William Koonz</div>
     )
 }
 

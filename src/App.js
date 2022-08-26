@@ -11,12 +11,7 @@ function App() {
       <Navbar />
       <div className='container'>
         <Jumbotron />
-        <div style={{width: '100%', display: 'flex'}} className='mb-4'>
-          <Card />
-          <Card />
-          <Card />
-          <Card />
-        </div>
+        <Card />
       </div>
       <Footer />
     </div>
